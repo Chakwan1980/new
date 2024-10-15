@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 .DS_Store
 
+=======
+>>>>>>> 130e7085dd2e413bcd4e70747ea481c7d560d776
 # Logs
 logs
 *.log
@@ -130,6 +133,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 
 # Local .terraform directories
 **/.terraform/*
@@ -169,3 +173,5 @@ terraform*/.terraform.lock.hcl
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+=======
+>>>>>>> 130e7085dd2e413bcd4e70747ea481c7d560d776
